@@ -1,10 +1,10 @@
-# README Generator
+# Test Title
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
 
-This is a console based program that will walk you through creating your own proffesional README
+Test Test
 
 ## Table of Contents
 
@@ -17,11 +17,11 @@ This is a console based program that will walk you through creating your own pro
 
 ## Installation
 
-Use node i to install dependencies
+Test
 
 ## Usage
 
-Run using node index.js and follow the prompts.
+Test
 
 ## License
 
@@ -43,5 +43,5 @@ This project is licensed under the MIT license. Click [here](https://opensource.
 
 For any questions, please contact me using the information below:
 
-- GitHub: [KarlFranzia](https://github.com/KarlFranzia)
-- Email: Jessiecgibbs@gmail.com
+- GitHub: [Testy](https://github.com/Testy)
+- Email: Test@test.com
