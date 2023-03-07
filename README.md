@@ -45,3 +45,5 @@ For any questions, please contact me using the information below:
 
 - GitHub: [KarlFranzia](https://github.com/KarlFranzia)
 - Email: Jessiecgibbs@gmail.com
+
+<video src="Project video.mp4" width="640" height="360" controls></video>
